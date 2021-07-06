@@ -7,4 +7,10 @@ public void m1() {
 public void m3() {
 	System.out.println();
 }
+
+
+
+public void m5() {
+	System.out.println("m5");
+}
 }
