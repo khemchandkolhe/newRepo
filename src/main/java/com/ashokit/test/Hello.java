@@ -6,7 +6,7 @@ public class Hello {
 		System.out.println("Hello.m1()::abcd:123456789");
 
 		System.out.println("Hello.m1()::abcd:123456");
-
+System.out.println("********");
 	}
 
 	public static void main(String[] args) {
